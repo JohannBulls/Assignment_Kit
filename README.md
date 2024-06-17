@@ -45,7 +45,7 @@ Follow these steps to set up your development environment:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/Assignment_Kit.git
+   git clone https://github.com/JohannBulls/Assignment_Kit.git
    ```
 
 2. Navigate into the project directory:
