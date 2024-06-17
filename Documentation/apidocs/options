@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Johann/Documents/ARSW/Assignment_Kit/src/main/java;C:/Users/Johann/Documents/ARSW/Assignment_Kit/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Johann/Documents/ARSW/Assignment_Kit/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Assignment_Kit 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Johann/Documents/ARSW/Assignment_Kit/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Assignment_Kit 1.0-SNAPSHOT API'
