@@ -4,7 +4,7 @@ This project is a statistical analysis tool for calculating means and standard d
 
 ## Class Diagram
 
-The class diagram can be found in [Class Diagram](src/test/resources).
+The class diagram can be found in [Class Diagram](src/test/resources/Class Diagram Assignment_Kit.asta).
 
 ### Classes and Description
 
